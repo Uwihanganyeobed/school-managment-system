@@ -11,7 +11,7 @@ button {
 .app-shell {
   min-height: 100vh;
   display: flex;
-  background: #f7f8f6;
+  background: #eaf2fb;
 }
 
 .sidebar {
@@ -21,7 +21,7 @@ button {
   padding: 25px 15px 14px;
   display: flex;
   flex-direction: column;
-  background: #173f35;
+  background: #173b66;
   color: #f4f6ef;
 }
 
@@ -78,7 +78,7 @@ button {
   height: 31px;
   flex: 0 0 31px;
   display: grid;
-  place-items: center;
+  color: #173b66;
   color: #173f35;
   background: #e7bd76;
   border-radius: 6px;
@@ -195,7 +195,7 @@ button {
   flex: 0 0 29px;
   display: grid;
   place-items: center;
-  border-radius: 6px;
+  color: #173b66;
   color: #f0cd83;
   background: rgba(236, 199, 123, .14);
 }
@@ -247,7 +247,7 @@ button {
 }
 
 .profile-avatar {
-  color: #173f35;
+  color: #173b66;
   background: #e9c27d;
 }
 
@@ -519,13 +519,13 @@ kbd {
 }
 
 .button-primary {
-  border-color: #225744;
+  border-color: #2b65a4;
   color: #fff;
-  background: #225744;
+  background: #2b65a4;
 }
 
 .button-primary:hover {
-  background: #174631;
+  background: #204f82;
 }
 
 .metrics-grid {
